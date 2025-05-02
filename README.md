@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- BIO -->
 
-<!--
-**Nerd-IT05/Nerd-IT05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, I'm Nerd!👋
 
-Here are some ideas to get you started:
+👨‍🎓 I'm a second year student at the Nelson Mandela University, South Africa.<br/>
+💻 Currently learning C# coding language and network engineering.<br/>
+🤓 Teaching myself HTML coding language [FreeCodeCamp](freecodecamp.org/Nerd-IT)<br/>
+💭 Open to learn something new.<br/>
+🔗 https://github.com/Nerd-IT05/Nerd-IT05/tree/main <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+>Faith it till you make it✨<br/>
+-kat
