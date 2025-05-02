@@ -7,6 +7,8 @@
 🤓 Teaching myself HTML coding language [FreeCodeCamp](freecodecamp.org/Nerd-IT)<br/>
 💭 Open to learn something new.<br/>
 🔗 https://github.com/Nerd-IT05/Nerd-IT05/tree/main <br/>
+<br/>
+![Nerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerd-IT05&show_icons=true&theme=merko)<br/>
 
 ---
 >Faith it till you make it✨<br/>
