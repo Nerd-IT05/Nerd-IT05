@@ -1,6 +1,6 @@
 <!-- BIO -->
 
-### Hello there, I'm Nerd!👋
+### Hello there, I'm Katlego!👋
 
 👨‍🎓 I'm a second year student, studying a Diploma in Information Technology : Communication Networks at the Nelson Mandela University, South Africa.<br/>
 💻 Currently learning C# coding language and network engineering.<br/>
