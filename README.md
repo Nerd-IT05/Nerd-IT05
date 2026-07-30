@@ -2,10 +2,10 @@
 
 ### Hello there, I'm Katlego!👋
 
-👨‍🎓 I'm a second year student, studying a Diploma in Information Technology : Communication Networks at the Nelson Mandela University, South Africa.<br/>
-💻 Currently learning C# coding language and network engineering.<br/>
+👨‍🎓 I'm a final year student, studying a Diploma in Information Technology : Communication Networks at the Nelson Mandela University, South Africa.<br/>
+💻 Currently learning C# coding language, recently stepped into the DevOps space and working on a final year group project.<br/>
 🤓 Teaching myself HTML coding language [FreeCodeCamp](freecodecamp.org/Nerd-IT)<br/>
-💭 Open to learn something new.<br/>
+💭 Open to learning something new.<br/>
 🔗 https://github.com/Nerd-IT05/Nerd-IT05/tree/main <br/>
 <br/>
 ![Nerd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nerd-IT05&show_icons=true&theme=merko)<br/>
@@ -41,4 +41,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 >Faith it till you make it✨<br/>
--kat
+-Katlego
